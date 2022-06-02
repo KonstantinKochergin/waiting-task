@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ждун</string>
+    <string name="toast_text">Идите работать!</string>
+    <string name="low_battery_text">накормите Ждуна, силы на исходе!</string>
+</resources>
